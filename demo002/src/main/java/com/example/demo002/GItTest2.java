@@ -4,4 +4,7 @@ public class GItTest2 {
     public  void test(){
 
     }
+    public  void test2(){
+
+    }
 }
